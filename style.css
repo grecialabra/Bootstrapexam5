@@ -1,0 +1,29 @@
+body{
+    background-color:bisque;
+}
+td {
+    background-color: #cadff2;
+    text-align:center;
+}
+th {
+    background-color:aquamarine;
+    color:blueviolet;
+    font-family: Arial;
+}
+.milestones-index {
+    background-color: #cadff2;
+}
+.milestone-heading {
+    font-size: 48px;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+nav {
+    color:aqua;
+    background-color: darksalmon;
+}
+h1 {
+    text-align: center;
+}
